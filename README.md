@@ -1,5 +1,5 @@
 ## Diego Corzo
-**'Software Developer'**
+**'Software Developer'** <br />
 👋 Hi there! I'm a computer science graduate passionate about technology and software development. I love building projects, solving problems, and continuously learning new things. I'm always open to collaboration and eager to connect with others in the industry. Feel free to explore my repositories, and let's create something awesome together!
 
 ### 🧰 Languages and Tools
